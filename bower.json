@@ -1,0 +1,35 @@
+{
+  "name": "ng2-linq",
+  "main": "ng2-linq.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Angular-Public/ng2-linq",
+  "authors": [
+    "Rajkumar.Angular@Gmail.com"
+  ],
+  "description": "linq.js ported for Angular2 (NG2) - http://linqjs.codeplex.com/",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "keywords": [
+    "LINQ",
+    "angular2js",
+    "linq2",
+	"ng2",
+    "ng2-linq.js",
+	"angular2",
+    "javascript",
+    "linqfactory"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
