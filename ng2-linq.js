@@ -8,6 +8,7 @@
  * http://linqjs.codeplex.com/
  *--------------------------------------------------------------------------*/
 /** Angular 2 Version **/
+
 define(["require", "exports"], function (require, exports) {
     "use strict";
     var Ng2Linq = (function () {
