@@ -1,6 +1,7 @@
 # ng2-linq
 
-**Example: **
+
+**Example Usage:**
 
 ```
 import { Component, OnInit } from '@angular/core';
